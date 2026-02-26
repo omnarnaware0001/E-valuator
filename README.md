@@ -1,12 +1,9 @@
-# Welcome to your OnSpace project
+# Welcome to your project
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use OnSpace**
-
-Simply visit the [OnSpace Project]() and start prompting.
 
 Changes made via OnSpace will be committed automatically to this repo.
 
